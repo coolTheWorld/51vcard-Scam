@@ -8,7 +8,7 @@
 
 ## 中文说明
 
-- 每个模板最多保留三个替换项，并以 **【REPLACE 1—3：字段说明】** 标记。每个替换项应一次性填入一整段完整事实，提交前删除 REPLACE 标记。
+- 所有模板均已按本案现有证据写成可直接复制的正文，不在正文内设置替换项。提交时只需在正文结束后附上对应证据编号、文件和公开链上链接。
 - 模板按受理方通常使用的语言提供，不重复制作中英两个版本。中文机构使用中文，香港机构使用繁体中文，国际机构使用英文。
 - 只提交由附件或公开记录支持的事实。没有证据时，不要写“诈骗已被确认”“恶意软件”“盗号”等结论。
 - 建立公开脱敏包和私密原件包。公开材料必须遮住姓名、邮箱、手机号、账户 UID、证件号和无关资产；交易哈希与链上地址通常无需遮盖。
@@ -18,7 +18,7 @@
 
 ## English overview
 
-- Each template contains no more than three replacement blocks marked **【REPLACE 1–3: field description】**. Replace each block once with a complete factual paragraph and remove the REPLACE label before submitting.
+- Every script is prewritten from the evidence currently available in this case. The body contains no replacement fields; attach the listed evidence files and public blockchain URLs after the script.
 - Each script is written in the language normally used by the recipient; the templates are not duplicated in both Chinese and English.
 - Submit only facts supported by attachments or public records. Do not characterize a site as confirmed fraud, phishing, malware, or account theft without evidence.
 - Maintain a redacted public evidence set and a private original set. Remove names, email addresses, phone numbers, account IDs, identity documents, and unrelated balances from public evidence.
@@ -90,17 +90,17 @@ Private originals may contain account or identity information. Never upload them
 
         我报案反映 51vcard.com 及其 VCard 应用涉嫌通过虚拟卡和稳定币充值服务收款后不入账。
 
-        【REPLACE 1：交易事实完整段；一次写清提币时间和时区、提币平台、网络、总扣款、手续费、链上金额、收款地址、参考编号、交易哈希及确认状态】
+        2026年8月12日00:14（UTC+8），我从VCard充值页复制地址0xd9dd4b43a223aabe12a4354cb214c13a566dfd38，通过OKX在Arbitrum One（USDT0）提币。账户共扣除260 USDT，其中手续费0.0026 USDT，实际链上金额259.9974 USD₮0。OKX参考编号为421954431，交易哈希为0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a，链上于2026年8月12日00:16:09（UTC+8）确认成功。
 
-        【REPLACE 2：未履约及催告完整段；一次写清到账承诺、最后核验时间、余额与账单状态、邮件或 Telegram 联系时间及回复情况】
+        VCard页面承诺充值约5至10分钟或15分钟自动到账，但截至2026年8月21日，账户余额仍为0美元，账单无入账记录。我于2026年8月12日00:43向kf@51vcard.com发送完整交易资料，并于当日通过Telegram联系@Kirsch1和@paleehom，均未获回复。App仍可登录，充值页面已刷新为另一地址，具体新地址仅向受理机构私下提供。
 
-        现有公开链上记录显示：【REPLACE 3：仅填写已有区块浏览器链接支持的资金路径摘要】。请求依法登记，固定网站、App、聊天、邮件及链上电子证据，调查实际经营主体，并向相关交易所、协议、域名注册商及云服务商发出数据保全和调证请求。
+        公开链上记录显示，原收款地址共收到18笔、合计2,570.288704 USD₮0，并于2026年8月13日经Rango归集清空，主额随后进入Arbiscan标记为“NEAR Intents: Treasury”的地址。请求依法登记，固定网站、App、聊天、邮件及链上电子证据，调查实际经营主体，并向OKX、Rango、NEAR Intents、域名注册商及云服务商发出数据保全和调证请求。
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：交易事实段。
-   - REPLACE 2：未履约及催告段。
-   - REPLACE 3：已核验资金路径段。
+   - E01—E10私密原件。
+   - 受害交易、Rango归集交易和后续交易的区块浏览器链接。
+   - 身份及账户归属材料仅通过公安机关正式渠道提交。
 
 ---
 
@@ -122,26 +122,26 @@ Private originals may contain account or identity information. Never upload them
 
         标题：VCard 疑似欺骗性支付服务导致链上充值未入账，请标记地址并保全资料
 
-        我举报一笔由本人账户发出的、与疑似诈骗及疑似欺骗性支付服务有关的提币。
+        我举报一笔由本人OKX账户发出的、与疑似诈骗及疑似欺骗性支付服务有关的提币。
 
-        【REPLACE 1：交易事实完整段；一次写清交易所、提币时间和时区、网络与代币、参考编号、总扣款、手续费、链上金额、收款地址、交易哈希及确认时间】
+        2026年8月12日00:14（UTC+8），我的OKX账户提交了一笔Arbitrum One（USDT0）提币。参考编号为421954431，账户共扣除260 USDT，其中网络手续费0.0026 USDT，链上实际转出259.9974 USD₮0。收款地址为0xd9dd4b43a223aabe12a4354cb214c13a566dfd38，交易哈希为0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a，链上于2026年8月12日00:16:09（UTC+8）确认成功。
 
-        【REPLACE 2：VCard 未履约完整段；一次写清地址来源、到账承诺、最后核验时间、余额与账单状态，以及邮件和其他联系渠道的时间与回复情况】
+        该地址系我当时从VCard充值页面复制。平台承诺约5至10分钟或15分钟自动到账，但截至2026年8月21日，VCard余额仍为0美元，账单无入账记录。我已于2026年8月12日00:43向kf@51vcard.com发送完整资料，并通过Telegram联系相关账号，未收到实质回复。
 
         请贵平台：
         1. 对上述收款地址进行独立风险审查，并在符合政策时添加高风险标记；
-        2. 保存上述提币订单、风控、登录、设备及内部出账记录；
-        3. 【REPLACE 3：如有同平台 Gas 注入或后续入金线索，写明交易哈希并请求保存关联账户、业务场景、KYC 和日志；没有则写“暂无额外平台关联线索”】
+        2. 保存参考编号421954431对应的提币订单、风控、登录、设备及内部出账记录；
+        3. 保存与Gas注入交易0x611e73746a1243d4fd346285892d062fffec1f6ee474f71207bc62911356565a有关的关联账户、业务场景、KYC和日志；
         4. 如后续资金进入贵平台控制的地址或账户，请依照适用法律、平台规则及正式调查要求采取限制措施；
         5. 提供工单编号和处理结果。
 
         我并不指控贵平台参与相关行为；本请求旨在风险标记、数据保全和协助调查。
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：交易事实段。
-   - REPLACE 2：未履约及催告段。
-   - REPLACE 3：交易所关联线索段。
+   - E01—E06、E10。
+   - 受害交易链接：https://arbiscan.io/tx/0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a
+   - Gas注入交易链接：https://arbiscan.io/tx/0x611e73746a1243d4fd346285892d062fffec1f6ee474f71207bc62911356565a
 
 ---
 
@@ -164,17 +164,19 @@ Private originals may contain account or identity information. Never upload them
 
         This is a victim report concerning a suspected deceptive virtual-card payment service operated through 51vcard.com and the VCard application.
 
-        【REPLACE 1: one complete transaction paragraph stating the date and time zone, amount and token, network, complete loss address, transaction hash, confirmation status, and how the address was obtained】
+        On 12 August 2026, 259.9974 USDt0 was successfully transferred on Arbitrum to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38. Transaction hash: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a.
 
-        【REPLACE 2: one complete evidence paragraph stating whether a contemporaneous address screenshot exists, any contemporaneous email or message, the VCard balance and ledger status, last verification date, and unanswered support contacts】
+        The address was copied from the VCard deposit page at the time of payment. I no longer have a contemporaneous screenshot showing that historical address because the application later refreshed it. A contemporaneous email sent to kf@51vcard.com at 00:43 UTC+8 on 12 August records the full destination address and transaction hash.
 
-        Public on-chain records show: 【REPLACE 3: concise verified fund-flow summary supported by explorer URLs】. This report requests a public suspected-scam risk marker and independent investigation. It does not allege that any exchange, protocol, network, or infrastructure provider participated in the suspected misconduct.
+        The blockchain transfer succeeded, but the VCard account balance remained USD 0 and no deposit appeared in the ledger through 21 August 2026. Email and Telegram contacts did not provide a substantive response.
 
-4. **必须替换**
+        Public on-chain records show that the address received 18 USDt0 deposits totaling 2,570.288704 and was emptied through a Rango transaction on 13 August 2026. This report requests a public suspected-scam risk marker and independent investigation. It does not allege that any exchange, protocol, network, or infrastructure provider participated in the suspected misconduct.
 
-   - REPLACE 1：交易事实段。
-   - REPLACE 2：证据及未履约段。
-   - REPLACE 3：公开链上路径段。
+4. **正文后附证据**
+
+   - E01—E06公开脱敏版及E10。
+   - 受害交易链接和损失地址链接。
+   - 不附个人邮箱、账户UID或App刷新后的新地址。
 
 ---
 
@@ -197,21 +199,18 @@ Private originals may contain account or identity information. Never upload them
 
         I am reporting a transaction associated with a suspected deceptive payment service and requesting preservation of records. I am not alleging that Rango participated in the suspected misconduct.
 
-        【REPLACE 1: one complete victim-event paragraph stating the date, amount and token, network, loss address, transaction hash and explorer URL, address source, non-crediting, and unanswered support】
+        On 12 August 2026, I transferred 259.9974 USDt0 on Arbitrum to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38 after copying that address from the deposit page of VCard at 51vcard.com. The transfer succeeded, but my VCard balance remained zero and support did not respond. Victim transaction: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a.
 
-        The receiving address later called Rango through the following transaction:
-        【REPLACE 2: Rango transaction hash, explorer URL, call time, input token and total input amount】
+        On 13 August 2026 at 14:48:41 UTC+8, the receiving address called Rango Diamond through transaction 0x9bcd82cf23f7da4d12f9331cc1e9f74a19a4aed24587e7cfd54cd5b37c519466, moving all 2,570.288704 USDt0.
 
-        The observable token transfers were:
-        【REPLACE 3: exact verified outputs, fees, intermediary addresses, amounts, subsequent transaction hashes and explorer URLs】
+        The observable transfers sent 5.140577 USDt0 to 0x6474195f597dFC71856273F244620BecDe5e3aF3 and 2,565.148127 USDt0 to 0xCF827f1c875623751124ED2ea615F799621a361e. Two seconds later, the latter amount was sent through transaction 0xc64bc14d478866cce75fce5eb5f03c34340324a2cf4b3d8289bca1232dfd73c4 to 0x2CfF890f0378a11913B6129B2E97417a2c302680, which Arbiscan labels as NEAR Intents: Treasury.
 
         Please preserve all records associated with the Rango transaction, including API requests, route and quote data, request or order identifiers, integration and affiliate information, destination parameters, solver or liquidity-provider information, IP address, user agent, device information, timestamps, and support communications. Please acknowledge this preservation request, provide a case number, and identify the lawful disclosure process available to investigators.
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：受害事件段。
-   - REPLACE 2：Rango 调用段。
-   - REPLACE 3：可见输出及后续路径段。
+   - E02、E04、E10。
+   - 受害交易、Rango归集交易和后续交易的三个Arbiscan链接。
 
 ---
 
@@ -234,19 +233,18 @@ Private originals may contain account or identity information. Never upload them
 
         I request preservation and review of records concerning funds associated with a suspected deceptive payment service. I am not alleging that NEAR Intents or any NEAR entity participated in the suspected misconduct.
 
-        【REPLACE 1: one complete victim-event paragraph stating the date, amount and token, network, loss address, transaction hash and explorer URL, address source, non-crediting, and unanswered support】
+        On 12 August 2026, I transferred 259.9974 USDt0 on Arbitrum to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38 after copying the address from the VCard deposit page at 51vcard.com. The transfer succeeded, but the VCard balance remained zero and support did not respond. Victim transaction: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a.
 
-        【REPLACE 2: one complete routing paragraph stating the Rango or intermediary transaction, amount, addresses, hashes, times, and explorer URLs】
+        The address later combined the funds with other deposits and sent 2,570.288704 USDt0 through Rango transaction 0x9bcd82cf23f7da4d12f9331cc1e9f74a19a4aed24587e7cfd54cd5b37c519466. After a fee, 2,565.148127 USDt0 was sent to 0xCF827f1c875623751124ED2ea615F799621a361e.
 
-        【REPLACE 3: one complete label paragraph stating the final amount, token, address, subsequent transaction URL, explorer name, and exact public label】
+        Two seconds later, that amount was transferred through transaction 0xc64bc14d478866cce75fce5eb5f03c34340324a2cf4b3d8289bca1232dfd73c4 to 0x2CfF890f0378a11913B6129B2E97417a2c302680, which Arbiscan labels as “NEAR Intents: Treasury.”
 
         Please confirm whether the labelled address is operated by or used within NEAR Intents. If relevant records are within your control, please preserve all intent, deposit, solver, quote, route, destination, API, account, IP, device, and timestamp records associated with this transfer. Please identify the lawful disclosure channel for investigators and provide a case reference.
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：受害事件段。
-   - REPLACE 2：路由路径段。
-   - REPLACE 3：最终地址及公开标签段。
+   - E02、E04、E10。
+   - 受害交易、Rango归集交易、后续交易及最终地址的Arbiscan链接。
 
 ---
 
@@ -269,18 +267,17 @@ Private originals may contain account or identity information. Never upload them
 
         I request an independent risk review of Arbitrum USDt0 addresses associated with the VCard service at 51vcard.com. I am not asking USDt0 to treat any allegation as proven without its own review.
 
-        【REPLACE 1: one complete victim-event paragraph stating the date, amount, loss address, transaction hash and explorer URL, address source, non-crediting, and unanswered support】
+        On 12 August 2026, 259.9974 USDt0 was successfully transferred on Arbitrum to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38 after the address was copied from the VCard deposit page. Transaction hash: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a. The VCard balance remained zero and support did not respond.
 
-        Public records later showed:
-        【REPLACE 2: verified consolidation summary with transaction hashes and explorer URLs】
+        Public records show that the address received 18 deposits totaling 2,570.288704 USDt0 and was later emptied through Rango transaction 0x9bcd82cf23f7da4d12f9331cc1e9f74a19a4aed24587e7cfd54cd5b37c519466.
 
-        The application later displayed a different deposit address: 【REPLACE 3: current refreshed address, submitted privately to USDt0 only; also state that its balance is not claimed as the victim's property】. Please preserve this report, review the addresses under your risk policies, apply internal risk markers where appropriate, and take any restriction action only if supported by your independent review, applicable law, and policy. Please provide a case reference.
+        The application later displayed a different deposit address. That address is intentionally omitted from this public report and will be supplied privately through the official support channel. I do not claim that its balance belongs to me; I provide it only as a current VCard-associated collection-address lead. Please preserve this report, review the addresses under your risk policies, apply internal risk markers where appropriate, and take restriction action only if supported by independent review, applicable law, and policy.
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：受害事件段。
-   - REPLACE 2：已核验归集路径段。
-   - REPLACE 3：私下提交的刷新地址及权属免责声明。
+   - E02—E04、E10。
+   - 受害交易及Rango归集交易链接。
+   - App刷新后的地址只放入发送给USD₮0官方的私密附件，不写入公开正文。
 
 ---
 
@@ -302,19 +299,18 @@ Private originals may contain account or identity information. Never upload them
 
         I report 51vcard.com for suspected fraud and deceptive payment-service activity and request an independent review under Vercel's policies. I am not alleging that Vercel participates in the reported activity.
 
-        【REPLACE 1: one complete website-evidence paragraph listing the exact claims and URLs shown on 51vcard.com, the VCard application or download links, and the dates on which the pages were captured】
+        The site advertises virtual prepaid cards, stablecoin deposits, automatic crediting within approximately 15 minutes, regulated operation under a U.S. MSB framework, segregated customer funds, a NASDAQ-listed parent company, and Visa/Mastercard relationships. It directs users to the VCard application and an Android APK.
 
-        【REPLACE 2: one complete victim-event paragraph stating the date, amount and token, network, loss address, transaction hash and explorer URL, address source, confirmation status, balance and ledger status】
+        On 12 August 2026, I transferred 259.9974 USDt0 on Arbitrum to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38 after copying the address from the VCard deposit page. Transaction hash: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a. The transfer succeeded, but the VCard balance remained USD 0 with no ledger entry through 21 August 2026.
 
-        【REPLACE 3: one complete support-and-continuing-risk paragraph stating contact channels and dates, response status, last verification date, and whether the application remained accessible or continued displaying a deposit address】
+        I sent the full transaction details to kf@51vcard.com at 00:43 UTC+8 on 12 August and contacted related Telegram accounts without receiving a substantive response. The application remained accessible and continued presenting a stablecoin deposit address.
 
         Please investigate the reported deployment and account, preserve project ownership, registration, billing, deployment, access, IP, login, source-repository linkage, and change-history records, and prevent continued harm. If your review confirms a policy violation, please suspend the relevant deployment and associated abusive resources. Please provide a case number.
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：网站及应用证据段。
-   - REPLACE 2：受害交易及未入账段。
-   - REPLACE 3：催告及持续风险段。
+   - E01—E08公开脱敏版及E10。
+   - 51vcard.com全页截图、受害交易链接、余额与账单截图。
 
 ---
 
@@ -341,19 +337,19 @@ Private originals may contain account or identity information. Never upload them
 
         I report Alibaba Cloud resources used by the VCard service at 51vcard.com for suspected fraud and deceptive payment-service activity. I am not alleging that Alibaba Cloud participates in the reported activity.
 
-        【REPLACE 1: one complete resource paragraph listing every reported Alibaba Cloud URL, the page that links to it, the observed application version, capture date, and how the APK was presented】
+        Reported resources are https://m.51vcard.com/, https://webapp.51vcard.com/, and https://vcard-app.oss-cn-hongkong.aliyuncs.com/Vcard.apk. The 51vcard.com website presents the OSS-hosted APK through a button styled as a Google Play download, although it is a direct APK URL. The observed application version is V1.0.2(2020).
 
-        【REPLACE 2: one complete victim-event paragraph stating the date, amount and token, network, loss address, transaction hash and explorer URL, address source, and confirmation status】
+        On 12 August 2026, I transferred 259.9974 USDt0 on Arbitrum to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38 after copying the address from the VCard deposit page. Transaction hash: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a. The transaction succeeded.
 
-        【REPLACE 3: one complete non-delivery paragraph stating the balance and ledger status, last verification date, support channels and dates, response status, and whether the application continued operating】
+        The VCard balance remained USD 0 with no ledger entry through 21 August 2026. I sent the transaction details to kf@51vcard.com and contacted related Telegram accounts without receiving a substantive response. The application remained accessible and continued presenting a deposit address.
 
         Please investigate the identified Alibaba Cloud accounts and resources, preserve account registration, billing, access, IP, object-history, upload, download, DNS, and deployment records, and restrict the resources if your independent review confirms a policy violation. Please provide a case number. This report concerns suspected deceptive collection and non-delivery; it does not claim that the APK has been technically proven to contain malware.
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：云资源及 APK 分发证据段。
-   - REPLACE 2：受害交易段。
-   - REPLACE 3：未履约及持续运营段。
+   - E01—E10公开脱敏版。
+   - 官网按钮跳转录屏、App版本截图和APK下载记录。
+   - APK原件及文件哈希仅通过Alibaba Cloud官方渠道提交。
 
 ---
 
@@ -377,11 +373,11 @@ Private originals may contain account or identity information. Never upload them
 
         我向 51vcard.com 的注册商举报该域名涉嫌被用于虚拟卡及稳定币充值收款后不入账的欺骗性支付服务。本举报不指控注册商参与相关行为。
 
-        【REPLACE 1：受害交易完整段；一次写清交易时间、网络、金额与代币、损失地址、交易哈希、区块浏览器链接和确认状态】
+        2026年8月12日，我从VCard充值页面复制地址0xd9dd4b43a223aabe12a4354cb214c13a566dfd38，并在Arbitrum One转入259.9974 USD₮0。交易哈希为0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a，链上显示成功。
 
-        【REPLACE 2：未履约及催告完整段；一次写清到账承诺、最后核验日期、余额与账单状态、联系渠道和时间、回复情况及域名是否仍在运营】
+        平台承诺约5至10分钟或15分钟自动到账，但截至2026年8月21日，账户余额仍为0美元，账单无入账记录。我已通过邮件和Telegram提交完整资料，未获实质回复，域名及应用仍在运营。
 
-        【REPLACE 3：域名证据完整段；一次写清精确举报 URL、域名查询结果、网站经营或牌照陈述，以及已取得的 Vercel／Alibaba Cloud 工单】
+        51vcard.com持续宣传虚拟预付卡、稳定币充值、美国MSB、多国金融监管、客户资金隔离、NASDAQ上市母公司及Visa/Mastercard合作，但页面未公开可核验的完整法律实体名称、公司编号、实际发卡行或具体牌照编号。
 
         请贵司：
         1. 按滥用政策调查 51vcard.com 及其注册账户；
@@ -392,11 +388,11 @@ Private originals may contain account or identity information. Never upload them
 
         附件为脱敏交易证据、账户余额、客服催告和公开链上记录。
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：受害交易段。
-   - REPLACE 2：未履约及催告段。
-   - REPLACE 3：域名及其他服务商证据段。
+   - E01—E08公开脱敏版及E10。
+   - 域名查询结果、网站全页截图和受害交易链接。
+   - 保存注册商回执，供后续Verisign和ICANN升级。
 
 ---
 
@@ -417,19 +413,18 @@ Private originals may contain account or identity information. Never upload them
 
         举报 51vcard.com 及其 VCard 应用涉嫌通过虚拟卡和稳定币充值服务实施欺骗性收款。
 
-        【REPLACE 1：交易事实完整段；一次写清日期、提币平台、网络、金额与代币、手续费、收款地址、交易哈希和确认状态】
+        2026年8月12日，我从VCard充值页复制地址0xd9dd4b43a223aabe12a4354cb214c13a566dfd38，并通过OKX在Arbitrum One转入259.9974 USD₮0，手续费0.0026 USDT。交易哈希为0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a，链上显示成功。
 
-        【REPLACE 2：未履约及催告完整段；一次写清到账承诺、最后核验日期、余额与账单状态、邮箱或 Telegram 联系时间及回复情况】
+        平台承诺充值约5至10分钟或15分钟自动到账，但截至2026年8月21日，VCard余额仍为0美元，账单无记录。我于2026年8月12日00:43向kf@51vcard.com发送完整交易资料，并联系Telegram相关账号，均未获实质回复。
 
-        【REPLACE 3：持续风险完整段；一次写清网站和 App 的精确 URL、最后访问时间、是否仍能登录及是否继续展示稳定币收款入口】
+        51vcard.com及VCard App仍可访问和登录，并继续展示稳定币收款入口。充值页面已经刷新为另一地址，具体新地址仅向受理机构私下提供。
 
         请求核查网站、关联应用及实际经营主体，保存后台资料，并在查明违规后采取停止传播和风险提示措施。
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：交易事实段。
-   - REPLACE 2：未履约及催告段。
-   - REPLACE 3：网站和 App 持续风险段。
+   - E01—E08公开脱敏版。
+   - 图片受限时优先附提币完成、链上成功、余额为零、充值承诺及官网截图。
 
 ---
 
@@ -451,19 +446,18 @@ Private originals may contain account or identity information. Never upload them
 
         举报 VCard 安卓应用涉嫌通过稳定币充值页面收款后不向用户账户入账。
 
-        【REPLACE 1：应用来源完整段；一次写清官网入口、App 版本、APK 完整 URL、下载按钮实际跳转情况、安装时间和取证日期】
+        该应用通过51vcard.com官网入口提供，版本页面显示V1.0.2(2020)。官网的下载按钮实际指向https://vcard-app.oss-cn-hongkong.aliyuncs.com/Vcard.apk，并非Google Play商店详情页。
 
-        【REPLACE 2：交易事实完整段；一次写清日期、网络、金额与代币、损失地址、交易哈希、区块浏览器链接和确认状态】
+        2026年8月12日，我从VCard充值页复制地址0xd9dd4b43a223aabe12a4354cb214c13a566dfd38，并在Arbitrum One转入259.9974 USD₮0。交易哈希为0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a，链上显示成功。
 
-        【REPLACE 3：未履约完整段；一次写清到账承诺、最后核验日期、余额与账单状态、联系渠道和回复情况，以及 App 是否继续运行】
+        应用承诺充值约5至10分钟到账，但截至2026年8月21日，账户余额仍为0美元，账单无记录，邮件及Telegram联系均未获实质回复。App仍可登录并继续展示稳定币充值入口。
 
         请求核查该应用的开发、分发、收款及后台行为，保存相关资料，并在确认违规后停止传播。本人未声称该 APK 已被技术鉴定为病毒或木马，本举报针对其涉嫌欺骗性收款及服务未交付行为。
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：应用来源及分发证据段。
-   - REPLACE 2：受害交易段。
-   - REPLACE 3：未履约及持续运行段。
+   - E01—E04、E07—E09。
+   - App版本页、官网下载入口、APK下载记录及受害交易链接。
 
 ---
 
@@ -488,17 +482,16 @@ Private originals may contain account or identity information. Never upload them
 
         I request review and preservation of Telegram content and account-linkage information associated with the VCard service at 51vcard.com. I am not claiming that the account holders are proven operators; I provide evidence for Telegram's independent review.
 
-        【REPLACE 1: one complete account-evidence paragraph listing the official Telegram URL linked by 51vcard.com, each public promotional account and post URL, each contact-only account, contact dates, and the distinction between promotion evidence and non-response】
+        The 51vcard.com website directly links to https://t.me/VCard_CN. The public profile at https://t.me/paleehom contains VCard and 51vcard.com promotional material. I contacted https://t.me/Kirsch1 and https://t.me/paleehom about the failed deposit on 12 August 2026 without receiving a response. I do not claim that either account holder is a proven operator.
 
-        【REPLACE 2: one complete victim-event paragraph stating the date, amount and token, network, loss address, transaction hash and explorer URL, address source, and confirmation status】
+        On 12 August 2026, 259.9974 USDt0 was successfully transferred on Arbitrum to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38 after the address was copied from the VCard deposit page. Transaction hash: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a.
 
-        【REPLACE 3: one complete non-delivery paragraph stating the VCard balance and ledger status, last verification date, support-response status, and continued availability of the service】. Please review public promotional content, relevant account linkages, and possible rule violations; preserve relevant records; and restrict content or accounts only if your independent review confirms a violation. Please provide a report reference if available.
+        The VCard balance remained USD 0 with no ledger entry through 21 August 2026, while the service remained accessible. Please review public promotional content, relevant account linkages, and possible rule violations; preserve relevant records; and restrict content or accounts only if your independent review confirms a violation.
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：Telegram 账号、公开内容及联系证据段。
-   - REPLACE 2：受害交易段。
-   - REPLACE 3：未履约及持续运营段。
+   - E04、E06、E08、E10公开脱敏版。
+   - 官网页尾Telegram链接、公开推广内容和联系记录截图。
 
 ---
 
@@ -522,11 +515,11 @@ Private originals may contain account or identity information. Never upload them
 
         本人就 VCard／51vcard.com 涉嫌作出虛假或具誤導性的服務陳述，以及可能在未清楚披露經營主體及相關牌照的情況下提供穩定幣充值、預付卡和跨境轉賬代付服務，向香港海關提交線索並請求調查。
 
-        【REPLACE 1：網站及香港主體證據完整段；一次寫清網站逐項陳述、香港地址及主體資料、截圖日期，以及未公開或未能核驗的法律實體名稱、公司編號、發卡行和牌照號】
+        網站https://www.51vcard.com/公開聲稱由香港主體營運、受美國MSB等多國金融牌照監管、母公司在NASDAQ上市、客戶資金獨立隔離，並宣傳Visa／Mastercard合作、穩定幣充值及跨境轉賬代付。網站只公開“香港九龍灣宏照道38號”，未公開可核驗的完整法律實體名稱、公司註冊編號、實際發卡行或具體牌照編號。
 
-        【REPLACE 2：交易及未履約完整段；一次寫清交易時間、提幣平台、網絡、金額與代幣、手續費、損失地址、交易雜湊、確認狀態、到賬承諾、核驗日期、餘額和賬單狀態】
+        2026年8月12日00:14（UTC+8），本人從VCard充值頁複製地址0xd9dd4b43a223aabe12a4354cb214c13a566dfd38，並通過OKX在Arbitrum One轉出259.9974 USD₮0，另付0.0026 USDT手續費。交易雜湊為0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a，鏈上顯示成功。平台承諾約5至10分鐘或15分鐘自動到賬，但截至2026年8月21日，賬戶餘額仍為0美元且沒有入賬記錄。
 
-        【REPLACE 3：聯絡及持續風險完整段；一次寫清聯絡時間和渠道、回覆情況、網站及 App 是否仍可使用和是否繼續展示收款入口】
+        本人於2026年8月12日00:43向kf@51vcard.com發出完整交易資料，並於同日通過Telegram聯絡相關推廣或聯繫賬號，均未獲回覆。平台目前仍可登入並持續展示穩定幣收款入口。
 
         本人請求香港海關：
         1. 核查實際香港經營主體、公司登記、負責人及受益擁有人；
@@ -534,11 +527,10 @@ Private originals may contain account or identity information. Never upload them
         3. 調查收款後不入賬、客服不回覆及持續展示收款入口的行為；
         4. 保存網站、應用、聯絡賬號及收款資料，並在職權範圍內採取措施防止更多消費者受損。
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：网站陈述及香港主体证据段。
-   - REPLACE 2：交易及未履约段。
-   - REPLACE 3：联系及持续风险段。
+   - E01—E10公开脱敏版。
+   - 官网经营与牌照陈述截图、交易链接、余额截图及联系记录。
 
 ---
 
@@ -561,17 +553,16 @@ Private originals may contain account or identity information. Never upload them
 
         本人通過 51vcard.com 提供的 VCard 服務進行穩定幣充值。
 
-        【REPLACE 1：交易事實完整段；一次寫清交易時間、提幣平台、網絡、總扣款、手續費、鏈上金額與代幣、損失地址、參考編號、交易雜湊及確認時間】
+        2026年8月12日00:14（UTC+8），本人從VCard充值頁面複製地址0xd9dd4b43a223aabe12a4354cb214c13a566dfd38，並通過OKX在Arbitrum One提交提幣。賬戶共扣除260 USDT，其中手續費0.0026 USDT，鏈上實際轉入259.9974 USD₮0。OKX參考編號為421954431，交易雜湊為0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a，鏈上於2026年8月12日00:16:09確認成功。
 
-        【REPLACE 2：未履約及催告完整段；一次寫清到賬承諾、核驗日期、餘額與賬單狀態、聯絡時間和渠道及回覆情況】
+        VCard頁面承諾約5至10分鐘或15分鐘自動到賬，但截至2026年8月21日，賬戶餘額仍為0美元，賬單沒有入賬記錄。本人於2026年8月12日00:43向kf@51vcard.com發出詳細投訴郵件，並通過Telegram聯絡相關賬號，均未收到實質回覆。
 
-        【REPLACE 3：商戶資料及訴求完整段；一次寫清網站的香港或受監管陳述、未能核驗的實體或牌照資料，以及要求退還的金額或等值款項】。本人請求消費者委員會協助要求商戶退款、披露完整經營主體和適用牌照及發卡機構，並就充值未入賬和客服不回應作出書面解釋。
+        網站聲稱由香港主體營運，但頁面未提供可核驗的完整法律實體名稱、公司註冊號、實際發卡行或具體牌照號。本人請求消費者委員會協助要求商戶退還未入賬的259.9974 USD₮0或等值款項，披露完整經營主體和適用牌照及發卡機構，並就充值未入賬和客服不回應作出書面解釋。
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：交易事实段。
-   - REPLACE 2：未履约及催告段。
-   - REPLACE 3：商户资料及退款诉求段。
+   - E01—E08。
+   - 提币订单、受害交易链接、余额与账单截图、邮件及Telegram记录。
 
 ---
 
@@ -594,19 +585,19 @@ Private originals may contain account or identity information. Never upload them
 
         I escalate an abuse report concerning 51vcard.com, a domain registered through Cloud Yuqu LLC. The domain is used to advertise and deliver a suspected deceptive virtual-card and stablecoin payment service.
 
-        【REPLACE 1: one complete victim-event paragraph stating the date, amount and token, network, loss address, transaction hash and explorer URL, address source, confirmation status, VCard balance and ledger status】
+        On 12 August 2026, 259.9974 USDt0 was successfully transferred on Arbitrum to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38 after the address was copied from the VCard deposit page. Transaction hash: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a. The VCard balance remained USD 0 with no ledger entry through 21 August 2026, and support did not provide a substantive response.
 
-        【REPLACE 2: one complete continuing-risk paragraph stating the last verification date, support channels and response status, the domain's current availability, and exact website claims supported by screenshots】
+        The domain remained operational and continued advertising virtual cards, stablecoin deposits, automatic crediting, regulated operation, segregated funds, a listed parent company, and card-network relationships without identifying a verifiable legal entity, issuer, or licence number.
 
-        【REPLACE 3: one complete registrar-escalation paragraph stating the original report date and time, abuse email or form, delivery proof, follow-up, elapsed time, and the registrar's exact response or non-response】
+        I previously sent Cloud Yuqu a documented abuse report through its published abuse contact. The attached registrar correspondence contains the exact submission date, delivery proof, follow-up history, elapsed time, and response status. This escalation is submitted because the attached record does not show a substantive investigation.
 
         Please review the attached registrar correspondence and evidence, preserve relevant registry records, and take any mitigation action available under applicable DNS-abuse obligations and policy. This report requests investigation and does not allege that Verisign or the registrar participated in the suspected misconduct.
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：受害事件及未入账段。
-   - REPLACE 2：持续风险及网站陈述段。
-   - REPLACE 3：注册商举报及未处理段。
+   - Cloud Yuqu原始举报、完整邮件头、投递证明、跟进及回复。
+   - E01、E02、E04、E08、E10公开脱敏版。
+   - 未完成Cloud Yuqu前置举报时，不提交本节。
 
 ---
 
@@ -630,19 +621,19 @@ Private originals may contain account or identity information. Never upload them
 
         Cloud Yuqu LLC is the registrar of 51vcard.com and publishes abuse@diymysite.com for abuse complaints.
 
-        【REPLACE 1: one complete registrar-contact paragraph stating the original report date and time, delivery method and proof, exact materials supplied, follow-up dates, elapsed time, and the precise failure to acknowledge or investigate】
+        I sent a detailed abuse report to the registrar's published contact with exact URLs, transaction evidence, blockchain records, and a preservation request. The attached correspondence shows the submission date, delivery status, follow-up history, elapsed time, and the lack of a substantive investigation.
 
-        【REPLACE 2: one complete underlying-case paragraph stating the 51vcard.com URLs and claims, victim transaction date, amount and token, network, address, hash, confirmation status, VCard balance and ledger status, and support response】
+        The underlying report concerns use of 51vcard.com to advertise and deliver a suspected deceptive virtual-card and stablecoin payment service. On 12 August 2026, 259.9974 USDt0 was successfully transferred on Arbitrum to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38 after the address was copied from the VCard deposit page. Transaction hash: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a. The VCard balance remained USD 0 with no ledger entry, and support did not provide a substantive response.
 
-        【REPLACE 3: one complete compliance paragraph identifying the registrar obligation believed not to have been met and attaching the relevant correspondence; do not use this block merely to disagree with a substantive registrar decision】
+        The compliance issue raised here is limited to whether the registrar maintained an effective abuse contact and reasonably investigated and responded to the documented report. It is not based merely on disagreement with a substantive registrar decision.
 
         I understand that ICANN does not adjudicate website-content disputes or recover funds. This complaint is limited to whether the accredited registrar fulfilled its contractual obligation to maintain an abuse contact and reasonably investigate and respond to a properly documented report. Please review the attached registrar correspondence and determine whether the registrar complied with its obligations.
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：注册商联系及未处理段。
-   - REPLACE 2：基础案件事实段。
-   - REPLACE 3：具体合规问题段。
+   - Cloud Yuqu原始举报、邮件头、投递状态、回执及跟进记录。
+   - 域名注册信息和时间线。
+   - 注册商已实质调查但仅结论不满意时，不提交本节。
 
 ---
 
@@ -662,19 +653,18 @@ Private originals may contain account or identity information. Never upload them
 
         本人舉報 51vcard.com 及其 VCard 應用涉嫌以虛擬卡和穩定幣充值服務收款後不入賬。
 
-        【REPLACE 1：交易及未履約完整段；一次寫清交易時間、提幣平台、網絡、金額與代幣、損失地址、交易雜湊、確認狀態、到賬承諾、核驗日期、餘額及賬單狀態】
+        2026年8月12日00:14（UTC+8），本人從VCard充值頁複製地址0xd9dd4b43a223aabe12a4354cb214c13a566dfd38，通過OKX在Arbitrum One轉出259.9974 USD₮0。交易雜湊為0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a，鏈上顯示成功。平台承諾約5至10分鐘或15分鐘到賬，但截至2026年8月21日，賬戶餘額仍為0美元且沒有入賬記錄。
 
-        【REPLACE 2：經營及聯絡證據完整段；一次寫清網站的香港主體、牌照、資金隔離或發卡合作陳述，未能核驗的資料，以及聯絡時間、渠道和回覆情況】
+        網站聲稱由香港主體營運並受多國金融牌照監管，但頁面未提供可核驗的完整法律實體、公司編號、實際發卡行或牌照號。本人已向kf@51vcard.com及Telegram相關賬號提交交易資料，未獲實質回覆。
 
-        公開鏈上記錄顯示：【REPLACE 3：附區塊瀏覽器連結的已核驗資金路徑摘要】。
+        公開鏈上記錄顯示，收款地址共收到18筆、合計2,570.288704 USD₮0，並於2026年8月13日經Rango歸集清空，主額其後進入Arbiscan標記為“NEAR Intents: Treasury”的地址。
 
         請依法登記和調查實際經營者，固定網站、應用、域名、雲服務、交易所及鏈上路由資料，並視調查結果採取防止更多受害和資產轉移的措施。
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：交易及未履约段。
-   - REPLACE 2：经营及联系证据段。
-   - REPLACE 3：已核验链上路径段。
+   - E01—E10私密原件。
+   - 官网陈述、联系记录及三条主要链上交易链接。
 
 ---
 
@@ -695,19 +685,18 @@ Private originals may contain account or identity information. Never upload them
 
         I report a suspected deceptive virtual-card and cryptocurrency payment service operated through 51vcard.com and the VCard Android application.
 
-        【REPLACE 1: one complete transaction paragraph stating the date and time zone, exchange, network and token, total debit, network fee, on-chain amount, loss address, exchange reference, transaction hash, explorer URL, and confirmation status】
+        On 12 August 2026 at 00:14 UTC+8, I initiated an Arbitrum One USDt0 withdrawal from OKX. My account was debited 260 USDT, including a 0.0026 USDT network fee, and 259.9974 USDt0 was successfully transferred to 0xd9dd4b43a223aabe12a4354cb214c13a566dfd38. OKX reference number: 421954431. Transaction hash: 0xfbb8115e8c139ea39fb54a75090471ab721732412c337445af7e5d8fd5f6210a.
 
-        【REPLACE 2: one complete non-delivery paragraph stating how the address was obtained, promised crediting time, VCard balance and ledger status, last verification date, support channels and dates, and response status】
+        The address was copied from the VCard deposit page. The service represented that deposits would be credited within approximately 5 to 10 minutes or 15 minutes, but the VCard balance remained USD 0 and no ledger entry appeared through 21 August 2026. I emailed kf@51vcard.com at 00:43 UTC+8 on 12 August and contacted related Telegram accounts without receiving a substantive response.
 
-        Public on-chain records show: 【REPLACE 3: concise verified consolidation and onward-transfer summary with transaction hashes and explorer URLs】.
+        Public on-chain records show that the receiving address accumulated 18 deposits totaling 2,570.288704 USDt0 and was emptied through Rango transaction 0x9bcd82cf23f7da4d12f9331cc1e9f74a19a4aed24587e7cfd54cd5b37c519466 on 13 August 2026. After a fee, 2,565.148127 USDt0 was transferred through transaction 0xc64bc14d478866cce75fce5eb5f03c34340324a2cf4b3d8289bca1232dfd73c4 to 0x2CfF890f0378a11913B6129B2E97417a2c302680, which Arbiscan labels as NEAR Intents: Treasury.
 
         I request preservation of website, application, account, exchange, routing, and blockchain records and investigation of the persons operating the service. Public blockchain labels are provided only as investigative leads and are not asserted as proof that any exchange, protocol, or infrastructure provider participated in the suspected misconduct.
 
-4. **必须替换**
+4. **正文后附证据**
 
-   - REPLACE 1：交易事实段。
-   - REPLACE 2：未履约及联系段。
-   - REPLACE 3：已核验链上路径段。
+   - E01—E10英文说明或清晰原件。
+   - 受害交易、Rango归集交易及后续交易链接。
 
 ---
 
@@ -733,7 +722,7 @@ Private originals may contain account or identity information. Never upload them
 
 | 渠道 | 提交时间 | 工单号 | 使用附件 | 回复期限 | 当前状态 | 下一步 |
 |---|---|---|---|---|---|---|
-| 【REPLACE：渠道】 | 【REPLACE：时间】 | 【REPLACE：工单号】 | 【REPLACE：E 编号】 | 【REPLACE：日期】 | 【REPLACE：状态】 | 【REPLACE：下一步】 |
+| — | — | — | — | — | — | — |
 
 72 小时没有自动确认时，可在原工单询问是否收到；注册商在合理时间内没有实质处理时，再考虑 Verisign 或 ICANN 升级。任何要求身份材料的请求，都应通过机构的官方表单或官方域名邮箱核验后提交。
 
