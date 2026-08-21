@@ -14,7 +14,7 @@
 - 建立公开脱敏包和私密原件包。公开材料必须遮住姓名、邮箱、手机号、账户 UID、证件号和无关资产；交易哈希与链上地址通常无需遮盖。
 - 不要提供密码、验证码、私钥、助记词、CVV 或远程控制权限，也不要向所谓“追回人员”支付解冻费、税费或验证费。
 - 同一渠道提交一次完整举报。保存提交截图、回执、工单号和时间；有新事实时回复原工单补充，不要重复刷报。
-- 中国大陆公安、香港警方和 FBI IC3 在本文中列为保留渠道。平台举报无法替代执法机关依法调取实名、服务器日志、交易所 KYC 或实施跨境冻结。
+- 中国大陆公安／网安、香港警方和 FBI IC3 均列为可立即提交的举报渠道。平台举报无法替代执法机关依法调取实名、服务器日志、交易所 KYC 或实施跨境冻结。
 
 ## English overview
 
@@ -24,7 +24,7 @@
 - Maintain a redacted public evidence set and a private original set. Remove names, email addresses, phone numbers, account IDs, identity documents, and unrelated balances from public evidence.
 - Never share passwords, one-time codes, private keys, seed phrases, CVV data, or remote-control access. Do not pay “recovery agents,” unlock fees, taxes, or verification fees.
 - Submit one complete report per channel, retain its receipt and case number, and add later evidence to the same case.
-- Law-enforcement channels are listed as reserved options. Service-provider reports cannot compel identity disclosure, KYC production, or cross-border asset restraint.
+- Mainland China police/cybercrime reporting, Hong Kong Police, and FBI IC3 are all listed as active reporting channels. Service-provider reports cannot compel identity disclosure, KYC production, or cross-border asset restraint.
 
 ## 已公开核验的本案线索 / Publicly verified case indicators
 
@@ -72,7 +72,7 @@ Private originals may contain account or identity information. Never upload them
 
 ---
 
-## 一、中国大陆公安／网安（保留渠道）
+## 一、中国大陆公安／网安
 
 1. **链接**
 
@@ -637,7 +637,7 @@ Private originals may contain account or identity information. Never upload them
 
 ---
 
-## 十七、香港警方网上报案（保留渠道）
+## 十七、香港警方网上报案
 
 1. **链接**
 
@@ -668,7 +668,7 @@ Private originals may contain account or identity information. Never upload them
 
 ---
 
-## 十八、FBI IC3（保留渠道）
+## 十八、FBI IC3
 
 1. **链接**
 
@@ -712,11 +712,11 @@ Private originals may contain account or identity information. Never upload them
 
 ## 建议提交顺序 / Suggested order
 
-1. 提币交易所、Chainabuse、Rango、NEAR Intents、USD₮0。
-2. Vercel、Alibaba Cloud、Cloud Yuqu、12321 网站与 App、Telegram。
-3. 香港海关与香港消费者委员会。
-4. Cloud Yuqu 未处理时再升级 Verisign 和 ICANN。
-5. 公安、香港警方和 IC3 根据受害人决定及案件需要启用。
+1. 中国大陆公安／网安、香港警方和 FBI IC3。
+2. 提币交易所、Chainabuse、Rango、NEAR Intents、USD₮0。
+3. Vercel、Alibaba Cloud、Cloud Yuqu、12321 网站与 App、Telegram。
+4. 香港海关与香港消费者委员会。
+5. Cloud Yuqu 未处理时再升级 Verisign 和 ICANN。
 
 ## 跟进记录 / Follow-up log
 
